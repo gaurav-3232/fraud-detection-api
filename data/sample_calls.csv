@@ -1,0 +1,16 @@
+label,transcript,language
+fraud,"Hello, this is the IRS. We have detected suspicious activity on your tax account. You owe $5,000 in back taxes. If you do not pay immediately using gift cards, a warrant will be issued for your arrest. Do not hang up.",en
+fraud,"This is Microsoft Tech Support. We have detected a virus on your computer that is stealing your banking information. I need you to give me remote access right now. Please provide your password.",en
+fraud,"Congratulations! You have been selected as the lucky winner of our $1,000,000 lottery. To claim your prize, we need your bank account number and routing number to deposit the funds immediately.",en
+fraud,"This is Officer Johnson from the Social Security Administration. Your social security number has been suspended due to suspicious activity. I need your SSN and date of birth for verification immediately.",en
+fraud,"We are calling from your bank's security department. There has been an unauthorized transaction. We need your credit card number, PIN number, and the one-time code we sent to verify your identity.",en
+fraud,"This is a final warning about your car's extended warranty. Act now or lose coverage. Pay the renewal fee via wire transfer immediately.",en
+fraud,"I am calling from the customs department. A package in your name contains illegal items. Pay a fee immediately using prepaid cards or face legal action and arrest.",en
+fraud,"Hallo, dies ist die Bundespolizei. Ihr Bankkonto wurde fuer illegale Aktivitaeten verwendet. Zahlen Sie sofort per Ueberweisung oder Sie werden verhaftet.",de
+normal,"Hi, this is Dr. Smith's office calling to remind you about your dental appointment tomorrow at 3 PM. Call us back if you need to reschedule.",en
+normal,"Hello, this is Sarah from Greenfield Library. The book you requested has arrived and is ready for pickup during regular hours.",en
+normal,"Hi, your pharmacy calling to let you know your prescription is ready for pickup. Ask the pharmacist if you have questions.",en
+normal,"Good morning, this is Riverside Apartments. The maintenance team will do HVAC inspections next Tuesday between 9 AM and 12 PM.",en
+normal,"Hello, calling from ABC Company about your Software Engineer application. We'd like to schedule a phone interview at your convenience.",en
+normal,"Hi, this is your daughter's school. The parent-teacher conference is scheduled for next Friday. Let us know if you can attend.",en
+normal,"Hello, this is FedEx. We attempted delivery today but no one was home. Schedule a redelivery or pick up at our facility.",en
